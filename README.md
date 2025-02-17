@@ -130,7 +130,7 @@ Meu nome é Rômulo Rocha, sou natural de São Gonçalo do Rio Preto - MG. Sou b
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=romulo-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=romulo-dev&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
   />
 
 <img 
